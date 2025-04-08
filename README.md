@@ -10,7 +10,7 @@ Let’s dive into one of the top contenders:
 
 ### 🔑 Key Features:
 - ✅ **AI-powered CAPTCHA-solving API**
-- ✅ **Supports reCAPTCHA, hCaptcha, and more**
+- ✅ **Supports reCAPTCHA, OCR, and more**
 - ✅ **Chrome Extension, Puppeteer & other integrations**
 - ✅ **Ideal for bot builders, testers, and automation workflows**
 
