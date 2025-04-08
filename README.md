@@ -1,6 +1,6 @@
 # 🔓 NoCaptchaAI - The Smarter CAPTCHA Solver
 
-![NoCaptchaAI](https://raw.githubusercontent.com/ClarkKent00/captchasolver/refs/heads/main/nocaptcha.png)
+[![NoCaptchaAI](https://raw.githubusercontent.com/ClarkKent00/captchasolver/refs/heads/main/nocaptcha.png)](https://nocaptchaai.com)
 
 As the web evolves, traditional CAPTCHA solvers can feel outdated—slow, hard to solve, and sometimes even inaccessible.  
 In 2025, the best CAPTCHA solver alternatives are smart, fast, user-friendly, and privacy-conscious.  
